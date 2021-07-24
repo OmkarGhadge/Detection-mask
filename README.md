@@ -1,5 +1,10 @@
 # Detection-mask
-### Mask Detection with OpenCV, Keras and Tensorflow
+### Mask Detection with OpenCV and Keras/Tensorflow.
+
+### About:
+Given the trained COVID-19 face mask detector, we’ll proceed to implement two more additional Python scripts used to:
+- Detect COVID-19 face masks in images
+- Detect face masks in real-time video streams
 
 WITH MASK                  |  WITHOUT MASK
 :-------------------------:|:-------------------------:
